@@ -18,3 +18,4 @@ A tool in C to read, study and learn the Bible all in CLI
 - you can find using a grep like tool a phrase in the bible if you don't remember the chapter and verse
 - you can download the bible to work in offline mode
 - you can turn on commentary an footnotes
+- it is possible to add links between passages to show correlation, typography or continuation of philosophical and theological arguments
