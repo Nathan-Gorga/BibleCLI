@@ -24,5 +24,6 @@ A tool in C to read, study and learn the Bible all in CLI
 - give a list of all possible versions in every languages. If the scripture is not available in the API, it is possible to download it and access it from your computer
   
 ## Ressources 
-The API used for this first version is https://scripture.api.bible/
-It has a large variety of different translations (especially catholic ones), it only has one protestant bible in french. This API will do for now
+This repo (https://github.com/gratis-bible/bible) has a bunch of different bibles in a bunch of different languages, really cool.
+
+I don't think there is an API, so you can download the necessary passages as they are requested and store them for later reading.
