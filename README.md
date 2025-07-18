@@ -23,3 +23,6 @@ A tool in C to read, study and learn the Bible all in CLI
 - you can add tags to verses to identify them as part of a same theme (divinity of Jesus, prophecy, trinity, life of jesus, etc.)
 - give a list of all possible versions in every languages. If the scripture is not available in the API, it is possible to download it and access it from your computer
   
+## Ressources 
+The API used for this first version is https://scripture.api.bible/
+It has a large variety of different translations (especially catholic ones), it only has one protestant bible in french. This API will do for now
