@@ -1,6 +1,7 @@
 # BibleCLI
 A tool in C to read, study and learn the Bible all in CLI
 
+
 ## Ideas
 - the program is a binary that can be set as a command.
 - it can be called using something like "bible 'args' "
