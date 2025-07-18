@@ -18,6 +18,8 @@ A tool in C to read, study and learn the Bible all in CLI
 - you can find using a grep like tool a phrase in the bible if you don't remember the chapter and verse
 - you can download the bible to work in offline mode
 - you can turn on commentary an footnotes
-- it is possible to add links between passages to show correlation, typography or continuation of philosophical and theological arguments
+- it is possible to add references between passages to show correlation, typography or continuation of philosophical and theological arguments
 - save certain passages in a "memorize playlist". you can then access them in an Anki style to memorize them
 - you can add tags to verses to identify them as part of a same theme (divinity of Jesus, prophecy, trinity, life of jesus, etc.)
+- give a list of all possible versions in every languages. If the scripture is not available in the API, it is possible to download it and access it from your computer
+  
