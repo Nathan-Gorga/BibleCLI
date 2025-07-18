@@ -22,6 +22,7 @@ A tool in C to read, study and learn the Bible all in CLI
 - save certain passages in a "memorize playlist". you can then access them in an Anki style to memorize them
 - you can add tags to verses to identify them as part of a same theme (divinity of Jesus, prophecy, trinity, life of jesus, etc.)
 - give a list of all possible versions in every languages. If the scripture is not available in the API, it is possible to download it and access it from your computer
+- define text styling in a file
   
 ## Ressources 
 This repo (https://github.com/gratis-bible/bible) has a bunch of different bibles in a bunch of different languages, really cool.
